@@ -1,3 +1,7 @@
+## Information
+
+This project is the code repo of Unsupervised Image Denoising with Score Function, which has been accepted by NeurIPS 2023.
+
 ## Main Structure of Code
 
 ### Directories
@@ -10,7 +14,6 @@
 * models: the whole model for the task
 * networks: neural networks
 * playgrounds: configuration for each experiment
-* slurm_jobs: files of job submitted to slurm system
 * tools: basic tools for this project
 * utils: basic helper functions 
 * utils_dsf: helper functions and other important components for models
